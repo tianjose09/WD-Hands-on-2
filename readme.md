@@ -5,22 +5,19 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Hands On 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=tianjose09/WD---Hands-On)
 
 ---
 
@@ -57,26 +54,18 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This projects aims to create hero and card designs with landing page. It aims to connect the buttons or links for this three pages for the user to interact with.  
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +106,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Penguin Logo | used the Penguin illustration as the logo for the designs |(https://www.google.com/imgres?q=penguin%20in%20circle%20black%20and%20white&imgurl=https%3A%2F%2Fih1.redbubble.net%2Fimage.4729643387.7600%2Fraf%2C360x360%2C075%2Ct%2Cfafafa%3Aca443f4786.jpg&imgrefurl=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fposter%2FPenguin-in-Circle-by-youmiichi%2F138047600.E40HW&docid=3f4cawMc0fkScM&tbnid=78-DevlWZlryuM&vet=12ahUKEwiYkajK-vaGAxURklYBHTTpBII4ChAzegQIbRAA..i&w=360&h=360&hcb=2&itg=1&ved=2ahUKEwiYkajK-vaGAxURklYBHTTpBII4ChAzegQIbRAA)
